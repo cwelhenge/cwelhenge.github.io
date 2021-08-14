@@ -2,7 +2,7 @@ My portofolio featuring my programming projects.
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
